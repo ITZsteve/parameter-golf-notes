@@ -1,3 +1,4 @@
+{
 # Parameter Golf Notes
 
 I am learning the OpenAI Parameter Golf challenge by running experiments on RunPod and trying to understand how small language models are trained, evaluated, and compressed.
@@ -39,12 +40,4 @@ Train a language model that:
 - A trick that helps on one setup may fail on another.
 - It is better to change one thing at a time.
 
-## Next Questions
-
-- How does `train_gpt.py` work internally?
-- Why do `matrix_lr`, `scalar_lr`, and `tied_embed_lr` affect results differently?
-- Which changes are best for 1xH100 versus 8xH100?
-
-## Next Goal
-
-Understand the training code better and design smarter experiments instead of only running commands.
+}
