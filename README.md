@@ -18,7 +18,7 @@ Train a language model that:
 
 
 
-##### FOR HISTORY !!!
+
 
 ### Day 1
 - Lower `val_bpb` is better.
