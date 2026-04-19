@@ -17,7 +17,7 @@
 ## Full Experiment Table
 
 | Day | Run Name | Final val_bpb | Status | 
-|---|---|---:|---|---|
+|---|---|---:|---|
 | Day 1 | `baseline_sp1024` | `1.34532795` | Baseline | 
 | Day 1 | `lr_low_01` | `1.34016755` | Better | 
 | Day 1 | `warmdown_3600` | `1.41415815` | Worse | 
