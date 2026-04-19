@@ -13,6 +13,7 @@
 | Day 1 | `lr_low_01` | `1.34016755` | 
 | Day 2 | `lr_low_wd500` | `1.32903575` | 
 | Day 3 | `seq2048_wd500` | `1.31473195` | 
+| Day 4 | `seq2048_wd400` | `1.31598763` |
 
 ## Full Experiment Table
 
