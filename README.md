@@ -19,7 +19,6 @@ Train a language model that:
 
 
 
-
 ### Day 1
 - Lower `val_bpb` is better.
 - The final compressed score matters most.
