@@ -39,7 +39,7 @@ Train a language model that:
 - Tested a few small local changes around the warmdown and optimizer settings.
 - Nearby warmdown values and extra optimizer tweaks did not beat the best run from Day 2.
 - The biggest improvement came from increasing `TRAIN_SEQ_LEN` from `1024` to `2048` while keeping the proven lower-LR + `WARMDOWN_ITERS=500` setup.
-- This became the new best run so far.
+- This became the new best run so far. "1.31473195"
 
 
 }
