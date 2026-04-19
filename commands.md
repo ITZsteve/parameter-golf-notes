@@ -69,7 +69,7 @@ These are the main commands I used while learning the OpenAI Parameter Golf chal
     TIED_EMBED_LR=0.025 \
     torchrun --standalone --nproc_per_node=1 train_gpt.py
 
----------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
 
 ## Day 2
 
